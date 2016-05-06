@@ -1,0 +1,10 @@
+#d{
+    background : #FFFFFF;
+    background : rgba(255, 255, 255, 1);
+    border-style : Solid;
+    border-color : #000000;
+    border-color : rgba(0, 0, 0, 1);
+    border-width : 5pt;
+}
+body{background: lightgrey;
+}
